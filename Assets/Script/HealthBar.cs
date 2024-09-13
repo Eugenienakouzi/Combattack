@@ -3,8 +3,8 @@ using UnityEngine.UI;
 
 public class HealthBar : MonoBehaviour
 {
-    public CharactersStat characterStats; // Référence aux statistiques du personnage
-    public Image healthBarFill; // Référence à l'image de la barre de vie remplie
+    public CharactersStat characterStats; 
+    public Image healthBarFill; 
 
     void Start()
     {
@@ -13,13 +13,11 @@ public class HealthBar : MonoBehaviour
             Debug.LogError("CharacterStats not assigned!");
         }
 
-        // Initialiser la barre de vie
         UpdateHealthBar();
     }
 
     void Update()
     {
-        // Mettre à jour la barre de vie en continu si nécessaire
         UpdateHealthBar();
     }
 

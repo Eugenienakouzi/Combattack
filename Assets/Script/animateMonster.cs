@@ -13,7 +13,7 @@ public class animateMonster : MonoBehaviour
     public float moveSpeed = 3f;
 
     private Transform target;
-    private bool isAttacking = false; // Nouveau booléen pour suivre l'état de l'attaque
+    private bool isAttacking = false; 
 
     void Awake()
     {
@@ -28,39 +28,33 @@ public class animateMonster : MonoBehaviour
 
             if (distanceToTarget > stopDistance)
             {
-                // Déplacement du monstre vers la cible
                 Vector3 direction = (target.position - transform.position).normalized;
                 transform.position += direction * moveSpeed * Time.deltaTime;
 
-                // Faire en sorte que le monstre regarde vers la cible
                 transform.LookAt(target);
 
-                // Activer l'animation de course
                 if (!animationMonster.GetBool(isRunning))
                 {
                     animationMonster.SetTrigger(Run);
                     animationMonster.SetBool(isRunning, true);
                 }
 
-                // Assurer que l'animation d'attaque est désactivée lorsqu'en mouvement
                 if (isAttacking)
                 {
-                    animationMonster.SetFloat(Punch, 0); // Réinitialiser le paramètre d'attaque
+                    animationMonster.SetFloat(Punch, 0); 
                     isAttacking = false;
                 }
             }
             else
             {
-                // Arrêter l'animation de course et commencer l'attaque si non déjà en cours
                 if (animationMonster.GetBool(isRunning))
                 {
                     animationMonster.SetBool(isRunning, false);
                 }
 
-                // Commencer l'animation d'attaque si non déjà en cours
                 if (!isAttacking)
                 {
-                    animationMonster.SetFloat(Punch, 1); // Déclencher l'animation d'attaque
+                    animationMonster.SetFloat(Punch, 1); 
                     isAttacking = true;
                 }
             }
@@ -73,7 +67,6 @@ public class animateMonster : MonoBehaviour
         {
             target = other.transform;
 
-            // Commencer la course vers l'ennemi
             if (!animationMonster.GetBool(isRunning))
             {
                 animationMonster.SetTrigger(Run);

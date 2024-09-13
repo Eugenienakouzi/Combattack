@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|d:\\efrei\\m1\\oos\\tp03\\combattack\\assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|d:\\efrei\\m1\\oos\\tp03\\combattack\\assets\\script\\charactersstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactersstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\assets\\script\\animatemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animatemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\assets\\script\\charactersstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactersstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|d:\\efrei\\m1\\oos\\tp03\\combattack\\assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HealthBar.cs",
               "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\HealthBar.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\HealthBar.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CharactersStat.cs",
               "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\CharactersStat.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CharactersStat.cs",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "animateMonster.cs",
               "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\animateMonster.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\animateMonster.cs",
@@ -64,11 +64,12 @@
               "RelativeToolTip": "Assets\\Script\\animateMonster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T16:38:42.47Z"
+              "WhenOpened": "2024-09-13T16:38:42.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "animate.cs",
               "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\animate.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\animate.cs",
@@ -76,7 +77,8 @@
               "RelativeToolTip": "Assets\\Script\\animate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T09:27:45.128Z"
+              "WhenOpened": "2024-09-13T09:27:45.128Z",
+              "EditorCaption": ""
             }
           ]
         }

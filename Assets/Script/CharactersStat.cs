@@ -6,8 +6,8 @@ public class CharactersStat : MonoBehaviour
 {
     private Animator animationMonster;
 
-    public int health = 100; // Points de vie
-    public int attackPower = 10; // Force d'attaque
+    public int health = 100; 
+    public int attackPower = 10; 
     private const string die = "Die";
 
     public void TakeDamage(int damage)
@@ -21,7 +21,6 @@ public class CharactersStat : MonoBehaviour
 
     private void Die()
     {
-        // Ajouter ici la logique de mort (désactivation du personnage, animation, etc.)
         Debug.Log(gameObject.name + " is dead!");
         animationMonster.SetTrigger(die);
     }
