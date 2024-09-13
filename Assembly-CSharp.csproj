@@ -62,8 +62,13 @@
   <ItemGroup>
     <Compile Include="Assets\Script\CameraOrbitale.cs" />
     <Compile Include="Assets\Script\Camera.cs" />
+    <Compile Include="Assets\Script\animateMonster.cs" />
+    <Compile Include="Assets\Script\CharactersStat.cs" />
     <Compile Include="Assets\Script\Deplacement.cs" />
+    <Compile Include="Assets\Script\HealthBar.cs" />
+    <Compile Include="Assets\Mountain Terrain rocks and tree\Script\Camera\FlyCameraControl.cs" />
     <Compile Include="Assets\Script\day_light.cs" />
+    <Compile Include="Assets\Mountain Terrain rocks and tree\Script\Camera\CameraControl.cs" />
     <Compile Include="Assets\Script\animate.cs" />
   </ItemGroup>
   <ItemGroup>

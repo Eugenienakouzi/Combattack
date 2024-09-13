@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\",
+  "WorkspaceRootPath": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|d:\\efrei\\m1\\oos\\tp03\\combattack\\combattack\\assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|d:\\efrei\\m1\\oos\\tp03\\combattack\\assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|d:\\efrei\\m1\\oos\\tp03\\combattack\\assets\\script\\charactersstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactersstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\assets\\script\\animatemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animatemonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\animate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\move character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\move character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\assets\\script\\day_light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\day_light.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\assets\\script\\cameraorbitale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameraorbitale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\assets\\script\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\assets\\script\\deplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{542BFE8A-BA53-42B7-2CD1-7587DB5F3944}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\deplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,74 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "animate.cs",
-              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\animate.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\animate.cs",
-              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\animate.cs",
-              "RelativeToolTip": "Assets\\Script\\animate.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBkAAAApAAAAAAAAAA==",
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HealthBar.cs",
+              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Script\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T09:27:45.128Z",
+              "WhenOpened": "2024-09-13T18:05:19.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "move character.cs",
-              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\move character.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\move character.cs",
-              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\move character.cs",
-              "RelativeToolTip": "Assets\\Script\\move character.cs",
+              "Title": "CharactersStat.cs",
+              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\CharactersStat.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactersStat.cs",
+              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\CharactersStat.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactersStat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T09:08:07.739Z"
+              "WhenOpened": "2024-09-13T17:39:21.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "day_light.cs",
-              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\day_light.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\day_light.cs",
-              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\day_light.cs",
-              "RelativeToolTip": "Assets\\Script\\day_light.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDIAAAAJAAAAAAAAAA==",
+              "Title": "animateMonster.cs",
+              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\animateMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\animateMonster.cs",
+              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\animateMonster.cs",
+              "RelativeToolTip": "Assets\\Script\\animateMonster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T07:19:35.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\Camera.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Camera.cs",
-              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\Camera.cs",
-              "RelativeToolTip": "Assets\\Script\\Camera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T16:01:28.745Z"
+              "WhenOpened": "2024-09-13T16:38:42.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CameraOrbitale.cs",
-              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\CameraOrbitale.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CameraOrbitale.cs",
-              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\CameraOrbitale.cs",
-              "RelativeToolTip": "Assets\\Script\\CameraOrbitale.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAA9wD0AAAAMAAAAAAAAAA==",
+              "Title": "animate.cs",
+              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\animate.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\animate.cs",
+              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Assets\\Script\\animate.cs",
+              "RelativeToolTip": "Assets\\Script\\animate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T14:38:19.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Deplacement.cs",
-              "DocumentMoniker": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\Deplacement.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Deplacement.cs",
-              "ToolTip": "D:\\EFREI\\M1\\OOS\\TP03\\Combattack\\Combattack\\Assets\\Script\\Deplacement.cs",
-              "RelativeToolTip": "Assets\\Script\\Deplacement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:09:05.846Z"
+              "WhenOpened": "2024-09-13T09:27:45.128Z"
             }
           ]
         }
