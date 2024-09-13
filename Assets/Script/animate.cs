@@ -10,6 +10,8 @@ public class animate : MonoBehaviour
     private const string run = "run";
     private const string walk = "walk";
     private const string jump = "jump";
+    private const string attack = "attack";
+    private const string die = "die";
     void Awake()
     {
         animation = GetComponent<Animator>();
@@ -20,15 +22,10 @@ public class animate : MonoBehaviour
     {
         animation.SetFloat(walk, Input.GetAxis(vertical));
         animation.SetFloat(jump, Input.GetKeyDown(KeyCode.Space) ? 1 : 0);
+        animation.SetFloat(attack, Input.GetMouseButtonDown(0) ? 1 : 0);
+        animation.SetFloat(run, Input.GetKey(KeyCode.LeftShift) ? 1 : 0);
+        animation.SetFloat(die, Input.GetKeyDown(KeyCode.K) ? 1 : 0);
 
-        if (Input.GetKey(KeyCode.LeftShift))
-        {
-            animation.SetBool(run, true);
-        }
-        else
-        {
-            animation.SetBool(run, false);
-        }
 
     }
 }
